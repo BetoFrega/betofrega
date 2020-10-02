@@ -1,4 +1,13 @@
-### Hi there 👋
+## it is I
+
+UX junkie; typescript fanatic; boardgame geek; zenstyle roamer
+
+currently working with a brazilian startup creating some crazy revolutionary educational platform stuff
+
+call me if you need me
+
+[![fregadev Github Stats](https://github-readme-stats.vercel.app/api?username=fregadev&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/fregadev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fregadev&layout=compact&theme=radical)](https://github.com/fregadev)
 
 <!--
 **fregadev/fregadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
